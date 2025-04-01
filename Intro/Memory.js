@@ -26,6 +26,3 @@ let user_2 = user_1;
 user_2.name = "xyz";
 console.log("user_1 = ", user_1.name);
 console.log("user_2 = ", user_2.name);
-
-
-
